@@ -6,8 +6,9 @@ Iphone:
 
 open iphone terminal and type
 
-$ su
-$ alpine
+su
+
+alpine
 
 apt install git
 
