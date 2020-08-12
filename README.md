@@ -23,9 +23,15 @@ To, Run
 ./iphone.sh
 
 Bubrak-Shahik (ѕ¢σяρισ-♏ 👹)
+
 YouTube:
+
 https://www.youtube.com/channel/UCz4Lyv8lDltYD46KsCNhfjA
+
 Whatts App Group:
+
 https://chat.whatsapp.com/GRwhmyqxeF14Yu1cAbORxP
+
 Twitter:
+
 @Bubrak5
