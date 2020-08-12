@@ -1,6 +1,9 @@
 INSTALLATION
+
 How To Install
+
 Iphone:
+
 open iphone terminal and type
 
 su
