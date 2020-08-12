@@ -1,7 +1,5 @@
 How To Install
-
 Iphone:
-
 open iphone terminal and type
 
 su
@@ -12,5 +10,4 @@ cd iPhone
 chmod +x iphone.sh
 
 To, Run
-
 ./iphone.sh
