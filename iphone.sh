@@ -83,12 +83,11 @@ ${RED}$BOLD[*] IPHONE (RUN AS ROOT)
 
 ${Orange}$BOLD[*] Choose An OPTION:${NC}
 
-${Yellow}[1] UPDATE SOURCES 	      [2] Add Important Repos
-[3] Upgrade Cydia Packages    [4] FIX Broken && Missing 
-[5] Important Packages        [6] FIX Cydia Crashes
-[7] Set Default Checkra1n     [8] Set Default Unc0ver 
-[9] Uicahe && Respring	      [0] Exit
-
+${Yellow}[1] UPDATE SOURCES 	   [2] Add Important Repos
+[3] Upgrade Cydia Packages [4] FIX Broken && Missing 
+[5] Important Packages     [6] FIX Cydia Crashes
+[7] Set Default Checkra1n  [8] Set Default Unc0ver 
+[9] Uicahe && Respring	   [0] Exit
 [A] Remove Screen Time Password	  [B] Host Cleaner${NC}
 "
 echo -e ${LightGreen}$BOLD"At First Run, Must Use Option 1 & 5\n"
